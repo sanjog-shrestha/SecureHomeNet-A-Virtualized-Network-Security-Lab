@@ -1,1 +1,1 @@
-# Set-Up-and-Secure-a-Home-Network-Lab
+# SecureHomeNet: A Virtualized Network Security Lab
