@@ -71,7 +71,7 @@ Ref 4: Proof of Evidence
 
 Ref 5: Snort Configuration
 
-n this project, Snort was configured as an Intrusion Detection System (IDS) to monitor and analyze the network traffic within the 192.168.199.0/24 network segment. Snort was deployed on the Pfsense firewall and was set to operate in IDS mode, rather than IPS (Intrusion Prevention System) mode, which means it was tasked with detecting and logging potential security threats, but not automatically blocking them.
+In this project, Snort was configured as an Intrusion Detection System (IDS) to monitor and analyze the network traffic within the 192.168.199.0/24 network segment. Snort was deployed on the Pfsense firewall and was set to operate in IDS mode, rather than IPS (Intrusion Prevention System) mode, which means it was tasked with detecting and logging potential security threats, but not automatically blocking them.
 
 The purpose of including Snort in this home network security setup was to provide an additional layer of security by detecting and alerting on any suspicious or malicious network activity. By analyzing the network traffic against a set of predefined rules, Snort was able to identify potential intrusion attempts and generate alerts, allowing the network administrator to further investigate and respond to any security incidents.
 
